@@ -1,3 +1,5 @@
-- WORFLOW
+# WORFLOW
    This is the main workflow of the Email automation , this might be not the completed workflow as I am improving workflow with new prompt and new code to filter emails for products , spam or enquiry
-     refrence pic -
+     refrence pic - screenshots/Screenshot 2026-05-23 232433.png
+# Drafting the email
+   On this we 
