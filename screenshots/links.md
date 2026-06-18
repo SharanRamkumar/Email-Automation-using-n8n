@@ -1,4 +1,4 @@
-# WORFLOW
+# WORKFLOW
    This is the main workflow of the Email automation , this might be not the completed workflow as I am improving workflow with new prompt and new code to filter    emails for products , spam or enquiry
    
    refrence pic 
