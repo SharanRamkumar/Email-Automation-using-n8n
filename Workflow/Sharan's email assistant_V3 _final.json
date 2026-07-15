@@ -37,7 +37,7 @@
       "name": "receive email",
       "credentials": {
         "gmailOAuth2": {
-          "id": "ijiebQHB4VDkBnmi",
+          "id": "your_id",
           "name": "Gmail account Sales"
         }
       }
@@ -58,10 +58,10 @@
       ],
       "id": "4014f52b-180e-4a76-a936-ed4b3d04797e",
       "name": "reply to the mail",
-      "webhookId": "27e83e8e-90e3-4a40-8317-c3334a704735",
+      "webhookId": "your_webhook_id",
       "credentials": {
         "gmailOAuth2": {
-          "id": "ijiebQHB4VDkBnmi",
+          "id": "your_gmail_id",
           "name": "Gmail account Sales"
         }
       }
@@ -104,7 +104,7 @@
       "name": "OpenAI Chat Model1",
       "credentials": {
         "openAiApi": {
-          "id": "CUIIvOi92SMIZmTJ",
+          "id": "your_AI_api",
           "name": "OpenAi National_VIdhinr"
         }
       }
@@ -152,7 +152,7 @@
       "name": "delete customer details",
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "J1Rf4Hf1IITzJ2Tk",
+          "id": "google_api",
           "name": "GoogleSh_SaleAiAgent"
         }
       }
@@ -164,7 +164,7 @@
           "value": "14zmXK0bbXYxSnfifEzsErVTc7cExYu6P76zM8N_OBqc",
           "mode": "list",
           "cachedResultName": "SalesLead",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14zmXK0bbXYxSnfifEzsErVTc7cExYu6P76zM8N_OBqc/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/14zmXK0bbXYxSnfifEzsErVTc7cExYu6P76zM8N_OBqc/edit?usp=drivesd"
         },
         "sheetName": {
           "__rl": true,
@@ -185,7 +185,7 @@
       "name": "get customer details",
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "J1Rf4Hf1IITzJ2Tk",
+          "id": "google_api",
           "name": "GoogleSh_SaleAiAgent"
         }
       }
