@@ -1,5 +1,5 @@
 # 📧AI Email Assistant (n8n Workflow)
-![n8n](https://img.shields.io/badge/n8n-workflow-orange)
+![n8n](https://img.shields.io/badge/n8n-workflow-EA4B71?logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4.1--mini-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
