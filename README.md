@@ -1,4 +1,7 @@
 # 📧AI Email Assistant (n8n Workflow)
+![n8n](https://img.shields.io/badge/n8n-workflow-orange)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4.1--mini-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 An AI-powered email automation workflow built with n8n that automatically reads incoming customer emails, understands their intent, and replies with intelligent, context-aware responses — all without any manual effort.
 
